@@ -2,6 +2,7 @@ Name,Type,Categories
 PassengerId,numeric,
 Survived,nominal,0;1
 Pclass,nominal,1;2;3
+Name,string,
 Sex,nominal,male;female
 Age,numeric,
 SibSp,numeric,
