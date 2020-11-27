@@ -1,2 +1,12 @@
-Name,Type
 PassengerId,Numeric
+Survived,Numeric
+Pclass,Numeric
+Name,String
+Sex,Nominal;male;female
+Age,Numeric
+SibSp,Numeric
+Parch,Numeric
+Ticket,String
+Fare,Numeric
+Cabin,String
+Embarked,Nominal;S;C;Q;null;
