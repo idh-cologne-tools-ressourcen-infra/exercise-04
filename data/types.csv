@@ -1,4 +1,4 @@
-Name,Type
+Name,Type,Expression
 PassengerId,Numeric
 Surivived,Nominal,0;1
 Pclass,Nominal,1;2;3
@@ -10,6 +10,4 @@ Parch,Numeric
 Ticket,String			
 Fare,Numeric			
 Cabin,String			
-Embarked,Embarked,C;S;Q
-
-
+Embarked,String,C;S;Q
