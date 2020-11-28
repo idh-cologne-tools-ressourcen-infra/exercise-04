@@ -10,6 +10,6 @@ Parch,Numeric
 Ticket,String			
 Fare,Numeric			
 Cabin,String			
-Embarked,Embarked,C;S;Q
+Embarked,Nominal,C;S;Q
 
 
