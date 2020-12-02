@@ -1,2 +1,12 @@
-Name,Type
 PassengerId,Numeric
+Survived,Nominal
+Pcalss,Nominal
+Name, String
+Sex,Nominal
+Age, Numeric
+Sibsp, Nominal
+Parch, Numeric
+Ticket, String
+Fare, Numeric
+Cabin, String
+Embarked, Nominal
